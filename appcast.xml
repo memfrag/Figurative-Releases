@@ -3,6 +3,15 @@
     <channel>
         <title>Figurative</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 24 Oct 2026 14:26:00 +0200</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/memfrag/Figurative-Releases/releases/download/1.0.1/Figurative-1.0.1.dmg" length="7938080" type="application/octet-stream" sparkle:edSignature="rLVAeG67mBniTPzc2rJFD4S7yoWxUi8CsEj9VCDhdcpD/3Od3OrQ2ekbMkOPfHcAPJ/AB9YkKrcYyC41h54CCA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sat, 24 Oct 2026 11:19:21 +0200</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
